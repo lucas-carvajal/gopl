@@ -1,7 +1,7 @@
 ## The Go Programming Language
 
 ### What is it and what does it do?
-Go files from the book "The Go Programming Language" by Alan A. A. Donovan and Brian Kernighan.
+Go files from the book "The Go Programming Language" by Alan A. A. Donovan and Brian Kernighan.  
 While working through the book, I re-coded the examples from the book in order to understand them better.
 
 ### How to use it?
