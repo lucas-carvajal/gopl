@@ -1,4 +1,4 @@
-## The Go Programming Language
+# The Go Programming Language
 
 ### What is it and what does it do?
 Go files from the book "The Go Programming Language" by Alan A. A. Donovan and Brian Kernighan.  
